@@ -333,7 +333,23 @@ figcaption {
 
 /* Mobile */
 
-@media all and (max-width: 700px) {
+@media all and (max-width: 800px) {
+
+  p {
+    font-family: 'Times New Roman', serif;
+    font-weight: 300;
+    color: #415161;
+    line-height: 1.5;
+  }
+
+    .profile {
+    margin: auto;
+    width: 90%;
+    text-align: left;
+  }
+
+}
+@media all and (max-width: 500px) {
 
   p {
     font-family: 'Oswald', serif;
@@ -346,6 +362,17 @@ figcaption {
     margin: auto;
     width: 90%;
     text-align: left;
+  }
+
+  .rodbox .text {
+      color: #fff;
+      position: absolute;
+      margin: 80px 20px 40px 20px;
+      font-family: 'Oswald', sans-serif;
+      font-weight: 300;
+      font-size: 25px;
+      text-transform: uppercase;
+      z-index: 10;
   }
 
 }
