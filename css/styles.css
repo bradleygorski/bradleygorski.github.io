@@ -334,28 +334,17 @@ figcaption {
 /* Mobile */
 @media (max-width: 500px) {
 
-  p {
-    font-family: 'Oswald', serif;
-    font-weight: 300;
-    color: #415161;
-    line-height: 1.5;
-  }
 
-    .profile {
+  .profile {
     margin: auto;
-    width: 90%;
+    width: 100%;
     text-align: left;
   }
 
-  .rodbox .text {
-      color: #fff;
-      position: absolute;
-      margin: 80px 20px 40px 20px;
-      font-family: 'Oswald', sans-serif;
-      font-weight: 300;
-      font-size: 25px;
-      text-transform: uppercase;
-      z-index: 10;
-  }
+  .content {
+    margin: auto;
+    width: 100%;
+    text-align: left;
+   }
 
 }
