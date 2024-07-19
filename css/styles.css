@@ -346,7 +346,18 @@ figcaption {
     width: 100%;
     text-align: left;
    }
+
 .row {
   margin: 20px;
 }
+.float-left {
+  width: 100%;
+  padding: 5px 20px 5px 0;
+}
+
+.float-right {
+  width: 100%;
+  padding: 5px 0 5px 20px;
+}
+
 }
