@@ -330,3 +330,15 @@ figcaption {
   text-decoration: none;
   transition: all 0.5s ease;
 }
+
+/* Mobile */
+
+@media all and (max-width: 500px) {
+
+  .profile {
+    margin: auto;
+    width: 100%;
+    text-align: left;
+  }
+
+}
