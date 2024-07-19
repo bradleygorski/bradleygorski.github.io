@@ -1,3 +1,5 @@
+@media all and (min-width: 501px) {
+
 body {
   margin: 0;
   padding: 0;
@@ -331,24 +333,9 @@ figcaption {
   transition: all 0.5s ease;
 }
 
-/* Mobile */
-
-@media all and (max-width: 800px) {
-
-  p {
-    font-family: 'Times New Roman', serif;
-    font-weight: 300;
-    color: #415161;
-    line-height: 1.5;
-  }
-
-    .profile {
-    margin: auto;
-    width: 90%;
-    text-align: left;
-  }
-
 }
+
+/* Mobile */
 @media all and (max-width: 500px) {
 
   p {
