@@ -336,7 +336,7 @@ figcaption {
 }
 
 /* Mobile */
-@media all and (max-width: 500px) {
+@media (max-width: 500px) {
 
   p {
     font-family: 'Oswald', serif;
