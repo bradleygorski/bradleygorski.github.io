@@ -346,5 +346,7 @@ figcaption {
     width: 100%;
     text-align: left;
    }
-
+.row {
+  margin: 20px;
+}
 }
