@@ -335,7 +335,14 @@ figcaption {
 
 @media all and (max-width: 500px) {
 
-  .profile {
+  p {
+    font-family: 'Oswald', serif;
+    font-weight: 300;
+    color: #415161;
+    line-height: 1.5;
+  }
+
+    .profile {
     margin: auto;
     width: 100%;
     text-align: left;
