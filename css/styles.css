@@ -364,7 +364,9 @@ figcaption {
   padding: 5px;
 }
 
-figure {
-  max-width: 300px;
+.img-proj {
+  max-width: 50px;
+  padding: 20px
 }
+
 }
