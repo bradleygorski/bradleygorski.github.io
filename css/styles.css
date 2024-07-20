@@ -331,6 +331,22 @@ figcaption {
   transition: all 0.5s ease;
 }
 
+/* Tablet */
+@media (max-width: 800px) {
+
+
+  .profile {
+    margin: auto;
+    width: 80%;
+    text-align: left;
+  }
+
+  .content {
+    margin: auto;
+    width: 80%;
+    text-align: left;
+   }
+}
 /* Mobile */
 @media (max-width: 500px) {
 
