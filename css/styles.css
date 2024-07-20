@@ -362,6 +362,7 @@ figcaption {
 
 .img-proj {
   width: 300px;
+  height: auto;
   padding: 20px
 }
 
