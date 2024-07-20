@@ -332,7 +332,7 @@ figcaption {
 }
 
 /* Tablet */
-@media (max-width: 800px) {
+@media (max-width: 1000px) {
 
 
   .profile {
@@ -346,6 +346,11 @@ figcaption {
     width: 80%;
     text-align: left;
    }
+
+   .headline {
+     width: 300px;
+   }
+
 }
 
 /* Mobile */
