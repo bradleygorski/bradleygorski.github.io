@@ -351,21 +351,17 @@ figcaption {
   margin: 20px;
 }
 .float-left {
-  float: none;
-  align-content: center;
   width: 100%;
   padding: 5px;
 }
 
 .float-right {
-  float: none;
-  align-content: center;
   width: 100%;
   padding: 5px;
 }
 
 .img-proj {
-  max-width: 50px;
+  max-width: 300px;
   padding: 20px
 }
 
