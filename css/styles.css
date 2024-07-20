@@ -361,8 +361,12 @@ figcaption {
 }
 
 .img-proj {
-  max-width: 300px;
+  width: 300px;
   padding: 20px
+}
+
+.headline {
+  width: 250px;
 }
 
 }
