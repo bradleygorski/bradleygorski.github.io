@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 648 432">
+  <!-- Generator: Adobe Illustrator 29.5.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 137)  -->
+  <defs>
+    <style>
+      .st0, .st1 {
+        fill: none;
+      }
+
+      .st2 {
+        fill: #f8d688;
+      }
+
+      .st3 {
+        fill: #7eced5;
+      }
+
+      .st4 {
+        clip-path: url(#clippath-17);
+      }
+
+      .st5 {
+        clip-path: url(#clippath-19);
+      }
+
+      .st6 {
+        clip-path: url(#clippath-11);
+      }
+
+      .st7 {
+        clip-path: url(#clippath-16);
+      }
+
+      .st8 {
+        clip-path: url(#clippath-18);
+      }
+
+      .st9 {
+        clip-path: url(#clippath-10);
+      }
+
+      .st10 {
+        clip-path: url(#clippath-15);
+      }
+
+      .st11 {
+        clip-path: url(#clippath-13);
+      }
+
+      .st12 {
+        clip-path: url(#clippath-14);
+      }
+
+      .st13 {
+        clip-path: url(#clippath-12);
+      }
+
+      .st14 {
+        clip-path: url(#clippath-20);
+      }
+
+      .st15 {
+        clip-path: url(#clippath-21);
+      }
+
+      .st16 {
+        clip-path: url(#clippath-22);
+      }
+
+      .st17 {
+        clip-path: url(#clippath-23);
+      }
+
+      .st18 {
+        clip-path: url(#clippath-1);
+      }
+
+      .st19 {
+        clip-path: url(#clippath-3);
+      }
+
+      .st20 {
+        clip-path: url(#clippath-4);
+      }
+
+      .st21 {
+        clip-path: url(#clippath-2);
+      }
+
+      .st22 {
+        clip-path: url(#clippath-7);
+      }
+
+      .st23 {
+        clip-path: url(#clippath-6);
+      }
+
+      .st24 {
+        clip-path: url(#clippath-9);
+      }
+
+      .st25 {
+        clip-path: url(#clippath-8);
+      }
+
+      .st26 {
+        clip-path: url(#clippath-5);
+      }
+
+      .st27 {
+        fill: #ff997e;
+      }
+
+      .st28 {
+        letter-spacing: 0em;
+      }
+
+      .st29 {
+        letter-spacing: 0em;
+      }
+
+      .st30 {
+        fill: #fff;
+      }
+
+      .st31 {
+        letter-spacing: 0em;
+      }
+
+      .st32 {
+        letter-spacing: 0em;
+      }
+
+      .st33 {
+        letter-spacing: 0em;
+      }
+
+      .st34 {
+        letter-spacing: 0em;
+      }
+
+      .st35 {
+        letter-spacing: 0em;
+      }
+
+      .st36 {
+        font-size: 24px;
+      }
+
+      .st36, .st37 {
+        font-family: Oswald-Light, Oswald;
+        font-weight: 300;
+      }
+
+      .st38 {
+        letter-spacing: 0em;
+      }
+
+      .st1 {
+        stroke: #d9d9d9;
+        stroke-linejoin: round;
+        stroke-width: .75px;
+      }
+
+      .st37 {
+        font-size: 20px;
+      }
+
+      .st39 {
+        letter-spacing: -.02em;
+      }
+
+      .st40 {
+        letter-spacing: -.01em;
+      }
+
+      .st41 {
+        letter-spacing: -.01em;
+      }
+
+      .st42 {
+        letter-spacing: -.02em;
+      }
+
+      .st43 {
+        letter-spacing: -.02em;
+      }
+
+      .st44 {
+        letter-spacing: -.05em;
+      }
+
+      .st45 {
+        letter-spacing: -.03em;
+      }
+
+      .st46 {
+        letter-spacing: -.03em;
+      }
+
+      .st47 {
+        letter-spacing: 0em;
+      }
+
+      .st48 {
+        letter-spacing: -.01em;
+      }
+
+      .st49 {
+        letter-spacing: -.01em;
+      }
+
+      .st50 {
+        letter-spacing: -.01em;
+      }
+
+      .st51 {
+        letter-spacing: -.01em;
+      }
+
+      .st52 {
+        letter-spacing: 0em;
+      }
+
+      .st53 {
+        letter-spacing: 0em;
+      }
+
+      .st54 {
+        letter-spacing: 0em;
+      }
+
+      .st55 {
+        letter-spacing: 0em;
+      }
+
+      .st56 {
+        letter-spacing: 0em;
+      }
+
+      .st57 {
+        letter-spacing: .03em;
+      }
+
+      .st58 {
+        letter-spacing: .02em;
+      }
+
+      .st59 {
+        letter-spacing: .01em;
+      }
+
+      .st60 {
+        clip-path: url(#clippath);
+      }
+
+      .st61 {
+        letter-spacing: .02em;
+      }
+
+      .st62 {
+        letter-spacing: .01em;
+      }
+
+      .st63 {
+        letter-spacing: .04em;
+      }
+
+      .st64 {
+        letter-spacing: .04em;
+      }
+
+      .st65 {
+        letter-spacing: .04em;
+      }
+
+      .st66 {
+        letter-spacing: .05em;
+      }
+
+      .st67 {
+        letter-spacing: .03em;
+      }
+
+      .st68 {
+        letter-spacing: 0em;
+      }
+
+      .st69 {
+        letter-spacing: .01em;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="st0" x=".01" y="-.1" width="648" height="432"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="st0" x="72.01" y="64.9" width="547" height="275"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="st0" x="72.01" y="64.9" width="547" height="275"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <rect class="st0" x="72.01" y="64.9" width="547" height="275"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <rect class="st0" x=".01" y="-.1" width="648" height="432"/>
+    </clipPath>
+    <clipPath id="clippath-5">
+      <rect class="st0" x=".01" y="-.1" width="648" height="432"/>
+    </clipPath>
+    <clipPath id="clippath-6">
+      <rect class="st0" x=".01" y="-.1" width="648" height="432"/>
+    </clipPath>
+    <clipPath id="clippath-7">
+      <rect class="st0" x=".01" y="-.1" width="648" height="432"/>
+    </clipPath>
+    <clipPath id="clippath-8">
+      <rect class="st0" x=".01" y="-.1" width="648" height="432"/>
+    </clipPath>
+    <clipPath id="clippath-9">
+      <rect class="st0" x=".01" y="-.1" width="648" height="432"/>
+    </clipPath>
+    <clipPath id="clippath-10">
+      <rect class="st0" x=".01" y="-.1" width="648" height="432"/>
+    </clipPath>
+    <clipPath id="clippath-11">
+      <rect class="st0" x=".01" y="-.1" width="648" height="432"/>
+    </clipPath>
+    <clipPath id="clippath-12">
+      <rect class="st0" x=".01" y="-.1" width="648" height="432"/>
+    </clipPath>
+    <clipPath id="clippath-13">
+      <rect class="st0" x=".01" y="-.1" width="648" height="432"/>
+    </clipPath>
+    <clipPath id="clippath-14">
+      <rect class="st0" x=".01" y="-.1" width="648" height="432"/>
+    </clipPath>
+    <clipPath id="clippath-15">
+      <rect class="st0" x=".01" y="-.1" width="648" height="432"/>
+    </clipPath>
+    <clipPath id="clippath-16">
+      <rect class="st0" x=".01" y="-.1" width="648" height="432"/>
+    </clipPath>
+    <clipPath id="clippath-17">
+      <rect class="st0" x=".01" y="-.1" width="648" height="432"/>
+    </clipPath>
+    <clipPath id="clippath-18">
+      <rect class="st0" x=".01" y="-.1" width="648" height="432"/>
+    </clipPath>
+    <clipPath id="clippath-19">
+      <rect class="st0" x=".01" y="-.1" width="648" height="432"/>
+    </clipPath>
+    <clipPath id="clippath-20">
+      <rect class="st0" x=".01" y="-.1" width="648" height="432"/>
+    </clipPath>
+    <clipPath id="clippath-21">
+      <rect class="st0" x=".01" y="-.1" width="648" height="432"/>
+    </clipPath>
+    <clipPath id="clippath-22">
+      <rect class="st0" x=".01" y="-.1" width="648" height="432"/>
+    </clipPath>
+    <clipPath id="clippath-23">
+      <rect class="st0" x=".01" y="-.1" width="648" height="432"/>
+    </clipPath>
+  </defs>
+  <rect class="st30" x=".51" y=".4" width="648" height="432"/>
+  <g class="st60">
+    <path class="st1" d="M72.51,64.9h546M72.51,119.9h546M72.51,174.4h546M72.51,229.4h546M72.51,284.4h546"/>
+  </g>
+  <g class="st18">
+    <polygon class="st3" points="72.51 339.4 97.01 329.9 122.01 339.4 147.01 334.4 171.51 335.4 196.51 339.4 221.51 304.9 246.01 306.9 271.01 339.4 296.01 332.9 320.51 339.4 345.51 339.4 370.51 339.4 395.01 339.4 420.01 309.4 445.01 339.4 469.51 339.4 494.51 339.4 519.51 332.4 544.01 339.4 569.01 311.4 594.01 331.9 618.51 339.4 594.01 339.4 569.01 339.4 544.01 339.4 519.51 339.4 494.51 339.4 469.51 339.4 445.01 339.4 420.01 339.4 395.01 339.4 370.51 339.4 345.51 339.4 320.51 339.4 296.01 339.4 271.01 339.4 246.01 339.4 221.51 339.4 196.51 339.4 171.51 339.4 147.01 339.4 122.01 339.4 97.01 339.4 72.51 339.4"/>
+  </g>
+  <g class="st21">
+    <polygon class="st27" points="72.51 339.4 97.01 284.4 122.01 293.4 147.01 279.4 171.51 335.4 196.51 339.4 221.51 304.9 246.01 306.9 271.01 339.4 296.01 332.9 320.51 339.4 345.51 339.4 370.51 339.4 395.01 339.4 420.01 309.4 445.01 339.4 469.51 339.4 494.51 339.4 519.51 332.4 544.01 339.4 569.01 311.4 594.01 331.9 618.51 339.4 594.01 331.9 569.01 311.4 544.01 339.4 519.51 332.4 494.51 339.4 469.51 339.4 445.01 339.4 420.01 309.4 395.01 339.4 370.51 339.4 345.51 339.4 320.51 339.4 296.01 332.9 271.01 339.4 246.01 306.9 221.51 304.9 196.51 339.4 171.51 335.4 147.01 334.4 122.01 339.4 97.01 329.9 72.51 339.4"/>
+  </g>
+  <g class="st19">
+    <polygon class="st2" points="72.51 64.9 97.01 64.9 122.01 64.9 147.01 64.9 171.51 64.9 196.51 64.9 221.51 64.9 246.01 64.9 271.01 64.9 296.01 64.9 320.51 64.9 345.51 64.9 370.51 64.9 395.01 64.9 420.01 64.9 445.01 64.9 469.51 64.9 494.51 64.9 519.51 64.9 544.01 64.9 569.01 64.9 594.01 64.9 618.51 64.9 618.51 339.4 594.01 331.9 569.01 311.4 544.01 339.4 519.51 332.4 494.51 339.4 469.51 339.4 445.01 339.4 420.01 309.4 395.01 339.4 370.51 339.4 345.51 339.4 320.51 339.4 296.01 332.9 271.01 339.4 246.01 306.9 221.51 304.9 196.51 339.4 171.51 335.4 147.01 279.4 122.01 293.4 97.01 284.4 72.51 339.4 72.51 64.9"/>
+  </g>
+  <g class="st20">
+    <line class="st1" x1="72.51" y1="339.4" x2="618.51" y2="339.4"/>
+  </g>
+  <g class="st26">
+    <text class="st37" transform="translate(24.53 346.4)"><tspan class="st39" x="0" y="0">0</tspan><tspan x="10" y="0">%</tspan></text>
+  </g>
+  <g class="st23">
+    <text class="st37" transform="translate(14.83 291.4)"><tspan class="st59" x="0" y="0">2</tspan><tspan class="st39" x="10" y="0">0</tspan><tspan x="20" y="0">%</tspan></text>
+  </g>
+  <g class="st22">
+    <text class="st37" transform="translate(14.75 236.9)"><tspan class="st69" x="0" y="0">4</tspan><tspan class="st39" x="10" y="0">0</tspan><tspan class="st28" x="20" y="0">%</tspan></text>
+  </g>
+  <g class="st25">
+    <text class="st37" transform="translate(14.55 181.9)"><tspan x="0" y="0">6</tspan><tspan class="st43" x="9.98" y="0">0</tspan><tspan class="st28" x="20" y="0">%</tspan></text>
+  </g>
+  <g class="st24">
+    <text class="st37" transform="translate(14.55 126.9)"><tspan x="0" y="0">8</tspan><tspan class="st43" x="9.98" y="0">0</tspan><tspan class="st28" x="20" y="0">%</tspan></text>
+  </g>
+  <g class="st9">
+    <text class="st37" transform="translate(6.85 72.4)"><tspan class="st43" x="0" y="0">1</tspan><tspan class="st67" x="7.02" y="0">0</tspan><tspan class="st43" x="18" y="0">0</tspan><tspan class="st38" x="28.02" y="0">%</tspan></text>
+  </g>
+  <g class="st6">
+    <text class="st37" transform="translate(78.54 378.9)"><tspan class="st43" x="0" y="0">1</tspan><tspan class="st28" x="7.02" y="0">994</tspan></text>
+  </g>
+  <g class="st13">
+    <text class="st37" transform="translate(178 378.9)"><tspan class="st43" x="0" y="0">1</tspan><tspan class="st28" x="7.02" y="0">995</tspan></text>
+  </g>
+  <g class="st11">
+    <text class="st37" transform="translate(277.11 378.9)"><tspan class="st43" x="0" y="0">1</tspan><tspan class="st28" x="7.02" y="0">996</tspan></text>
+  </g>
+  <g class="st12">
+    <text class="st37" transform="translate(377.43 378.9)"><tspan class="st42" x="0" y="0">1</tspan><tspan class="st35" x="7.02" y="0">997</tspan></text>
+  </g>
+  <g class="st10">
+    <text class="st37" transform="translate(475.79 378.9)"><tspan class="st42" x="0" y="0">1</tspan><tspan class="st35" x="7.02" y="0">998</tspan></text>
+  </g>
+  <g class="st7">
+    <text class="st37" transform="translate(575.11 378.9)"><tspan class="st42" x="0" y="0">1</tspan><tspan class="st35" x="7.02" y="0">999</tspan></text>
+  </g>
+  <g class="st4">
+    <text class="st36" transform="translate(286.61 36.9)"><tspan x="0" y="0">Romance</tspan></text>
+  </g>
+  <g class="st8">
+    <rect class="st3" x="117.51" y="402.4" width="13.5" height="13"/>
+  </g>
+  <g class="st5">
+    <text class="st37" transform="translate(137.25 416.4)"><tspan class="st57" x="0" y="0">O</tspan><tspan class="st44" x="11" y="0">r</tspan><tspan class="st66" x="16" y="0">i</tspan><tspan class="st46" x="21" y="0">g</tspan><tspan class="st54" x="29" y="0">i</tspan><tspan class="st53" x="33.02" y="0">n</tspan><tspan class="st31" x="41.02" y="0">a</tspan><tspan class="st56" x="49.02" y="0">l</tspan><tspan class="st54" x="53.02" y="0"> </tspan><tspan class="st63" x="57.04" y="0">i</tspan><tspan class="st53" x="62.02" y="0">n</tspan><tspan class="st47" x="70.02" y="0"> </tspan><tspan class="st49" x="74.02" y="0">Ru</tspan><tspan class="st65" x="92.06" y="0">s</tspan><tspan class="st50" x="100.06" y="0">s</tspan><tspan class="st47" x="107.08" y="0">i</tspan><tspan class="st33" x="111.08" y="0">a</tspan><tspan x="119.08" y="0">n</tspan></text>
+  </g>
+  <g class="st14">
+    <rect class="st27" x="290.51" y="402.4" width="13.5" height="13"/>
+  </g>
+  <g class="st15">
+    <text class="st37" transform="translate(310.39 416.4)"><tspan class="st62" x="0" y="0">F</tspan><tspan class="st31" x="8" y="0">a</tspan><tspan class="st48" x="16" y="0">u</tspan><tspan class="st58" x="24.02" y="0">x</tspan><tspan class="st47" x="32.02" y="0"> </tspan><tspan class="st40" x="36.02" y="0">T</tspan><tspan class="st32" x="44.04" y="0">ra</tspan><tspan class="st52" x="58.04" y="0">n</tspan><tspan class="st51" x="66.04" y="0">s</tspan><tspan class="st55" x="73.06" y="0">l</tspan><tspan class="st32" x="77.06" y="0">a</tspan><tspan class="st61" x="85.06" y="0">t</tspan><tspan class="st47" x="91.04" y="0">i</tspan><tspan class="st29" x="95.04" y="0">o</tspan><tspan class="st35" x="103.04" y="0">n</tspan></text>
+  </g>
+  <g class="st16">
+    <rect class="st2" x="448.01" y="402.4" width="13" height="13"/>
+  </g>
+  <g class="st17">
+    <text class="st37" transform="translate(467.54 416.4)"><tspan class="st41" x="0" y="0">T</tspan><tspan class="st34" x="8.02" y="0">r</tspan><tspan class="st33" x="14" y="0">a</tspan><tspan class="st52" x="22" y="0">n</tspan><tspan class="st64" x="30" y="0">s</tspan><tspan class="st55" x="38" y="0">l</tspan><tspan class="st32" x="42" y="0">a</tspan><tspan class="st45" x="50" y="0">t</tspan><tspan class="st68" x="55.02" y="0">e</tspan><tspan x="63.02" y="0">d</tspan></text>
+  </g>
+</svg>
